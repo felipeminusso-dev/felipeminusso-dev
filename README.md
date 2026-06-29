@@ -13,6 +13,7 @@ Studying Java and Python, looking for an internship opportunity in software deve
 | Repository | Description | Language |
 |---|---|---|
 | [FinancingSystem](https://github.com/felipeminusso-dev/FinancingSystem) | Real estate financing simulation using OOP | Java |
+| [ListaDeJogosParaZerar](https://github.com/felipeminusso-dev/ListaDeJogosParaZerar) | Game backlog manager with CRUD and JSON persistence | Python |
 
 ## Contact
 
