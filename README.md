@@ -14,6 +14,7 @@ Studying Java and Python, looking for an internship opportunity in software deve
 |---|---|---|
 | [FinancingSystem](https://github.com/felipeminusso-dev/FinancingSystem) | Real estate financing simulation using OOP | Java |
 | [ListaDeJogosParaZerar](https://github.com/felipeminusso-dev/ListaDeJogosParaZerar) | Game backlog manager with CRUD and JSON persistence | Python |
+| [nfe-lancador](https://github.com/felipeminusso-dev/nfe-lancador) | Desktop tool for NF-e invoice entry into Excel with GUI | Python |
 
 ## Contact
 
